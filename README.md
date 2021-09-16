@@ -1,4 +1,13 @@
-### Hi there 👋
+# Ted Armstrong
+
+- Pronouns: He series
+- Languages: Typescript, Javascript, SQL, C#, Ruby, C++, YAML
+
+## GitHub Stats
+
+NB: most contributions are to private repositories
+
+[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockolate&show_icons=true&theme=onedark)]
 
 <!--
 **Shockolate/Shockolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
