@@ -37,17 +37,20 @@
       "startDate": "2018-05-07",
       "endDate": "2023-05-04",
       "highlights": [
-        "Technical Leadership",
-        "Typescript in NodeJS Services, backed by PostgreSQL",
-        "Event-Driven architecture (CQRS-ES)",
-        "API-First Approach with OpenAPI Specification",
-        "User-facing workflows utilizing Behavior Trees on AMRs",
-        "Docker / Kubernetes / GCP"
+        "Technical leader of a squad of up to 7 software engineers, 2 product managers, 3 QA engineers, and 1 UX Designer",
+        "Developed user facing workflows (with Behavior Trees) deployed to thousands of Autonomous Mobile Robots (AMRs), stations, and handheld devices in a Warehouse Fulfillment setting",
+        "Designed and migrated dozens of normalized data models, with read-performant views and indexes, in PostgreSQL hosted by Google Cloud SQL",
+        "Advocated for API-First approach for development between internal and external customers, using OpenAPI Specification (OAS) where derived JSON Schemas and Typescript Types are utilized for validation and development",
+        "Engineered Kubernetes hosted services utilizing Event-Driven architecture (CQRS-ES)",
+        "Established design review process for time-intensive technical projects across the organization",
+        "Volunteered for regular on-call shifts (168 continuous hours) to represent Engineering supporting up to 109 active sites",
+        "Guided peers with their technical and career progression",
+        "Championed team camaraderie with process improvements, hosted game sessions, and cracked dadjokes"
       ],
-      "summary": "Technical leader of a squad of up to 7 software engineers, 2 product managers, 3 QA engineers, and 1 UX Designer. Developed user facing workflows (with Behavior Trees) deployed to thousands of Autonomous Mobile Robots (AMRs), stations, and handheld devices in a Warehouse Fulfillment setting. Designed and migrated dozens of normalized data models, with read-performant views and indexes, in PostgreSQL hosted by Google Cloud SQL. Advocated for API-First approach for development between internal and external customers, using OpenAPI Specification (OAS) where derived JSON Schemas and Typescript Types are utilized for validation and development. Engineered Kubernetes hosted services utilizing Event-Driven architecture. Established design review process for time-intensive technical projects across the organization. Volunteered for regular on-call shifts (168 continuous hours) to represent Engineering supporting up to 109 active sites. Guided peers with their technical and career progression. Lead team camaraderie with process improvements, hosted game sessions, and cracked dadjokes.",
-      "description": "Warehouse Fulfillment Automation startup with novel AMR solution. Acquired by Shopify on 2019-10-17.",
+      "keywords": ["Typescript", "NodeJS", "Robot Behavior", "OAS", "GCP", "PostgreSQL", "Warehouse Fulfillment", "AMR", "Pub/Sub", "Loopback4", "RESTful APIs"],
+      "summary": "Warehouse Fulfillment Automation startup with novel AMR solution. Acquired by Shopify on 2019-10-17.",
       "url": "https://6river.com/",
-      "location": "Waltham, Massachusetts"
+      "location": "Waltham, Massachusetts & Remote"
     },
     {
       "name": "VistaPrint",
@@ -55,17 +58,16 @@
       "startDate": "2015-07-06",
       "endDate": "2018-04-27",
       "highlights": [
-        "C# with .NET & .NET Core applications, backed by SQL Server",
-        "Javascript in NodeJS microservices",
-        "Serverless / AWS / Lambda",
-        "Ruby",
-        "CI/CD design",
-        "Manufacturing Software"
+        "Driver of the adoption of Serverless architecture (on AWS) to the Manufacturing Software organization",
+        "Built dozens of RESTful APIs in our Microservice stack",
+        "Designed and implemented CI/CD solution for Serverless architecture",
+        "Developed microservices in C# (.NET Framework & .NET Core) and Javascript (NodeJS)",
+        "Wrote developer and build tools with Ruby (Rake & RubyGems)"
       ],
-      "summary": "Driver of the adoption of Serverless architecture (on AWS) to my organization. Built dozens of RESTful APIs in our Microservice stack. Designed and implemented CI/CD solution for Serverless architecture. Wrote microservices in C# (.NET Framework & .NET Core) and Javascript (NodeJS). Wrote developer and build tools with Ruby (Rake & RubyGems). Wrote UI's using Typescript (AngularX).",
+      "keywords": ["Serverless", "AWS", "C#", ".NET", "Javascript", "NodeJS", "RESTful APIs"],
+      "summary": "E-commerce company that produces physical and digital marketing products for small businesses.",
       "url": "https://www.vistaprint.com/",
-      "location": "Waltham, Massachusetts",
-      "description": "E-commerce company that produces physical and digital marketing products for small businesses."
+      "location": "Waltham, Massachusetts"
     },
     {
       "name": "GE Transportation",
@@ -73,13 +75,14 @@
       "startDate": "2014-06-09",
       "endDate": "2014-08-22",
       "highlights": [
-        "Embedded Software internship",
-        "C++"
+        "Designed and programmed embedded control application enhancements using C++ for Locomotive Control Software Architecture",
+        "Grokked entire Software Development Life Cycle process"
       ],
-      "summary": "Designed and programmed embedded control application enhancements using C++ for Locomotive Control Software Architecture. Grokked entire Software Development Life Cycle process.",
+      "keywords": ["C++", "Embedded Software"],
+      "summary": "American railroad rolling stock manufacturer.",
       "url": "https://www.ge.com/research/sectors/transportation",
       "location": "Erie, Pennsylvania",
-      "description": "American railroad rolling stock manufacturer."
+      "description": ""
     },
     {
       "name": "Technology Systems, Inc.",
@@ -87,30 +90,34 @@
       "startDate": "2011-01-31",
       "endDate": "2011-02-28",
       "highlights": [
-        "High School internship",
-        "C++"
+        "Designed and developed software for a virtual boat tracking application",
+        "Performed maintenance coding on existing systems",
+        "Presented software changes to reviewers"
       ],
-      "summary": "Designed and developed software for a virtual boat tracking application. Performed maintenance coding on existing systems. Presented software changes to reviewers.",
+      "keywords": ["C++"],
+      "summary": "Augmented Reality and Planning/Support Systems for Unmanned Vehicles.",
       "location": "Brunswick, Maine",
-      "description": "Augmented Reality and Planning/Support Systems for Unmanned Vehicles."
+      "description": ""
     }
   ],
   "education": [
     {
-      "institution": "Maine School of Science and Mathematics",
+      "institution": "Maine School of Science and Mathematics (MSSM)",
       "studyType": "High School Diploma",
       "startDate": "2008-08",
       "endDate": "2011-05",
       "url": "https://www.mssm.org/"
     },
     {
-      "institution": "Worcester Polytechnic Institute",
+      "institution": "Worcester Polytechnic Institute (WPI)",
       "url": "https://www.wpi.edu/",
-      "area": "Computer Science, Robotics Engineering",
-      "studyType": "Bachelor of Science",
+      "area": "Computer Science",
+      "studyType": "B.S.",
       "startDate": "2011-08",
       "endDate": "2015-05",
-      "score": "3.50 / 4.00 GPA, with High Distinction"
+      "score": "3.50 / 4.00 GPA, with High Distinction",
+      "gpa": "3.50 / 4.00",
+      "summary": "Graduated with High Distinction"
     }
   ],
   "awards": [],
@@ -120,6 +127,7 @@
       "issuer": "Amazon Web Services",
       "endDate": "2019-12-31",
       "startDate": "2017-12-31",
+      "date": "2017-12-31",
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2017-12-27&ci=AWS00383484"
     },
     {
@@ -127,6 +135,7 @@
       "issuer": "Amazon Web Services",
       "endDate": "2020-01-31",
       "startDate": "2018-01-31",
+      "date": "2018-01-31",
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-27&ci=AWS00383484"
     },
     {
@@ -134,6 +143,7 @@
       "issuer": "Amazon Web Services",
       "endDate": "2020-02-28",
       "startDate": "2018-02-28",
+      "date": "2018-02-28",
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-02-03&ci=AWS00383484"
     },
     {
@@ -141,6 +151,7 @@
       "issuer": "Amazon Web Services",
       "endDate": "2020-02-28",
       "startDate": "2018-02-28",
+      "date": "2018-02-28",
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-02-10&ci=AWS00383484"
     }
   ],
@@ -150,13 +161,14 @@
       "publisher": "Global Learn, May 17, 2010 in Penang, Malaysia",
       "releaseDate": "2010-05-17",
       "summary": "Abstract: In a secondary school in the Northeast United States, disaster struck when unknowingly windows were blown open and pipes burst in the residential school dormitory. Approximately one week was available before school was to be reopened for the Winter short Term. Cleanup of facilities and student personal property was to take about three weeks. Administration and faculty pooled their thoughts to produce a viable online learning experience for the 130 students spread across the state expecting to return to school. Teachers involved had not at this time been introduced to Course Management Software (CMS). Experiences in providing two weeks worth of quality, online-learning, put together in one week's time are documented through interview and observation.",
-      "url": "http://www.editlib.org/noaccess/34516/"
+      "url": "http://www.editlib.org/noaccess/34516/",
+      "website": "http://www.editlib.org/noaccess/34516/"
     }
   ],
   "skills": [
     {
       "name": "General Software Development",
-      "level": "Expert",
+      "level": "Advanced",
       "keywords": [
         "Git",
         "Linting",
@@ -180,39 +192,34 @@
       ]
     },
     {
-      "name": "Robot Behavior",
-      "level": "Senior",
+      "name": "Robot Behavior & Autonomy",
+      "level": "Intermediate",
       "keywords": [
-        "Behavior Trees"
+        "Behavior Tree",
+        "AMR"
       ]
     },
     {
       "name": "Warehousing Fulfillment",
-      "level": "Senior",
+      "level": "Intermediate",
       "keywords": [
         "WMS",
         "Inventory Systems",
         "Inbound",
         "Returns",
         "Picking",
-        "Person to Goods",
-        "Goods to Person"
+        "Person to Goods"
       ]
     },
     {
-      "name": "Robotics",
-      "level": "Junior",
+      "name": "Robotics Software Development",
+      "level": "Basic",
       "keywords": [
         "ROS",
-        "RViz",
-        "Arduino"
+        "OpenCV",
+        "PCL",
+        "AprilTag"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker"
     }
   ],
   "interests": [
@@ -220,7 +227,8 @@
       "name": "Music",
       "keywords": [
         "Choral Singing",
-        "Technical Death Metal"
+        "Technical Death Metal",
+        "Pop Punk"
       ]
     },
     {
@@ -235,14 +243,16 @@
       "name": "Beer",
       "keywords": [
         "Craft",
-        "Homebrewing"
+        "Homebrewing",
+        "Bottle sharing"
       ]
     },
     {
       "name": "Skiing",
       "keywords": [
         "Alpine",
-        "Lead Instructor of my Partner"
+        "Lead Instructor of my Partner",
+        "Aprés Enthusiast"
       ]
     },
     {
@@ -269,6 +279,8 @@
       "name": "Major Qualifying Project: Amazon Picking Challenge",
       "startDate": "2015-01-08",
       "description": "Programmed a 15 DOF Motoman robot to pick from Amazon Robotic Pod shelves",
+      "highlights": ["Programmed a 15 D.O.F. Motoman robot to pick from Amazon Robotic Pod shelves in a competition scenario"],
+      "keywords": ["Robot Perception", "Robot Planning", "Robot Manipulation", "ROS"],
       "url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2659/2561",
       "endDate": "2015-05-27"
     },
@@ -276,19 +288,30 @@
       "name": "DARPA Robotics Challenge",
       "startDate": "2014-03-31",
       "description": "Collaborated on a team of 30 of WPI Undergraduate, Graduate students, professors, and several Carnegie Melon University professors to participate in the DARPA Robotics Challenge. Our mission was to add functionality to the Atlas Robot (from Boston Dynamics) to complete a variety tasks in context of a disaster scenario. Worked in the vision sub-team, implementing fiducial recognition software. Incorporated Stereo Cameras and LiDAR for area mapping using PCL, OpenCV and ROS.",
+      "highlights": [
+        "Collaborated on a team of 30 of WPI Undergraduate, Graduate students, professors, and several Carnegie Melon University professors to participate in the DARPA Robotics Challenge. Our mission was to add functionality to the Atlas Robot (from Boston Dynamics) to complete a variety tasks in context of a disaster scenario",
+        "Worked in the vision sub-team, implementing fiducial recognition software",
+        "Incorporated Stereo Cameras and LiDAR for area mapping using PCL, OpenCV and ROS"],
       "url": "http://robot.wpi.edu/drc/",
-      "endDate": "2014-10-31"
+      "endDate": "2014-10-31",
+      "keywords": ["ROS", "PCL", "OpenCV", "AprilTag"]
     },
     {
       "name": "Software Engineering Course: WPI-Suite",
       "startDate": "2014-03-31",
+      "highlights": [
+        "Led a team of 15 colleagues to design and implement a project management Java application in a simulated professional Software Engineering environment",
+        "Built application using Ant, deployed to Jenkins server, tested with JUnit, and documented with JavaDoc",
+        "Distributed mock payment to colleagues, scheduled work meetings, delegated tasks, and resolved interpersonal conflicts"
+      ],
+      "keywords": ["Java", "Ant", "Jenkins"],
       "description": "Led a team of 15 colleagues to design and implement a project management Java application while utilizing Git version control. Built application using Ant, deployed to Jenkins server, tested with JUnit, and accurately documented with JavaDoc notation. Distributed mock payment to colleagues, scheduled work meetings, delegated tasks, and resolved interpersonal conflicts. Designed and implemented Java software.",
-      "endDate": "2014-05-31"
+      "endDate": "2014-05-31",
+      "roles": []
     }
   ],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "kendall"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
 }
