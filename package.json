@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "resumed validate ./resume.json"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "resumed": "^3.0.1"
+  }
+}
