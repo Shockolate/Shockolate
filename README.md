@@ -1,11 +1,10 @@
-# Ted Armstrong
+# Ted Armstrong (He/Him)
 
-- Pronouns: He series
-- Languages: Typescript, Javascript, SQL, C#, Ruby, C++, YAML
+Check out my Résumé: https://shockolate.github.io/resume/
 
 ## GitHub Stats
 
-NB: most contributions are to private repositories
+_Significant majority of contributions are to private repositories._
 
 [![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockolate&show_icons=true&theme=onedark)]
 
